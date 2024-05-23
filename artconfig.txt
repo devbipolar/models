@@ -1,0 +1,5 @@
+AddSimpleModel(-1, 17545, -1000, "mapping/elss.dff", "mapping/elss.txd");
+AddSimpleModel(-1, 976, -1001, "mapping/gate.dff", "mapping/gate.txd");
+AddSimpleModel(-1, 2616, -1002, "mapping/police_board.dff", "mapping/police_board.txd");
+AddSimpleModel(-1, 2010, -1003, "mapping/usa_flag.dff", "mapping/usa_flag.txd");
+AddSimpleModel(-1, 2010, -1004, "mapping/blueline.dff", "mapping/blueline.txd");
